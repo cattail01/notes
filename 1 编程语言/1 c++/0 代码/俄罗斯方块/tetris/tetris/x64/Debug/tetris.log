@@ -1,0 +1,4 @@
+﻿  tests.cpp
+G:\notes\编程语言\c++\项目\俄罗斯方块\tetris\src\tests.cpp(129,16): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+G:\notes\编程语言\c++\项目\俄罗斯方块\tetris\src\tests.cpp(129,18): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  tetris.vcxproj -> G:\notes\编程语言\c++\项目\俄罗斯方块\tetris\x64\Debug\tetris.exe

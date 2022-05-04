@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.17763.0",
+            "compilerPath": "D://environment_for_coding//mingw_w64//mingw_w64offf_line_package//x86_64-8.1.0-posix-seh-rt_v6-rev0//mingw64//bin//gcc",
+            "cStandard": "c17",
+            "intelliSenseMode": "windows-gcc-x86",
+            "cppStandard": "c++20"
+            // "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
